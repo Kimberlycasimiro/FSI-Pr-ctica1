@@ -89,8 +89,6 @@ Se han definido múltiples problemas de búsqueda, cada uno con un nodo de orige
 
 ## Resultados
 
-### Conclusión
-
 **Ramificación y Acotación con Subestimación** es la estrategia más eficiente, sobresaliendo en todos los aspectos clave: nodos generados, nodos visitados y tiempo de ejecución. Su uso de heurísticas permite priorizar nodos prometedores, lo que no solo reduce la carga computacional, sino que también garantiza soluciones óptimas con una exploración más controlada del espacio de búsqueda. Esto la convierte en la mejor opción para problemas complejos donde la eficiencia y la calidad son esenciales.
 
 **Búsqueda en amplitud** se presenta como una alternativa confiable en escenarios donde no se dispone de una función heurística. Aunque garantiza encontrar soluciones aceptables, su enfoque exhaustivo incrementa significativamente el número de nodos generados y visitados, lo que la hace menos eficiente en comparación con estrategias basadas en heurísticas.
